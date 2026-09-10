@@ -147,6 +147,14 @@ flowchart TD
 
 # Como rodar
 * Garanta que sua máquina tenha o Python a partir da versão 3.13 ou superior.
+
+* Instale a biblioteca Rich, caso ainda não tenha:
+
+```bash
+pip install rich
+```
+
+  
 * Baixe o arquivo do repositório e execute no terminal:
 
 ```bash
