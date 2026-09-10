@@ -1,0 +1,34 @@
+[
+    {
+        "user": {
+            "name": "bruna",
+            "age": 20,
+            "weight": 69.0,
+            "height": 1.69,
+            "objective": 1,
+            "meals": [
+                {
+                    "refeicao": "Caf� da Manh�: P�o Fr�nces, Ovos mexidos e caf� preto",
+                    "calories": 340
+                },
+                {
+                    "refeicao": "FRUTAS COM BANANA",
+                    "calories": 400
+                },
+                {
+                    "refeicao": "Almo�o",
+                    "calories": 590
+                },
+                {
+                    "refeicao": "jantar",
+                    "calories": 679
+                },
+                {
+                    "refeicao": "ceia",
+                    "calories": 560
+                }
+            ]
+        }
+    }
+    
+]
